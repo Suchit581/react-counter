@@ -1,7 +1,7 @@
 This project is all about the React couter, that i learn in the ciperschool mern stack course.
 
 # Demo Website
-open [https://suchit581.github.io/react-counter](Demo website of this project) to View it in the browser
+open [https://suchit581.github.io/react-counter](https://suchit581.github.io/react-counter) to View it in the browser
 
 ## Available Scripts
 In the project directory, you can run:
